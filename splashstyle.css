@@ -1,0 +1,29 @@
+#nav_bg {
+    height: 42px;
+    background: cornflowerblue;
+}
+
+#nav {
+    height: 42px;
+    margin: auto;
+}
+#nav ul {
+    list-style: none; /*Removes bullet points*/
+}
+#nav ul li a {
+    height: 42px;
+    line-height: 42px;
+    float: left; /*Stacks buttons from left to right*/
+    padding: 0px 40px; /*Put space between buttons (40px), but leave same spacing above and below (0px).*/
+    text-decoration: none; /*Remove default underline*/
+    color: white;
+}
+#nav ul li a:hover {
+    color: white;
+    background: blue;
+}
+#nav ul li a:active {
+    color: white;
+    background: navy;
+}
+
