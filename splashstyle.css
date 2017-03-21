@@ -1,11 +1,7 @@
-#nav_bg {
-    height: 42px;
-    background: cornflowerblue;
-}
-
 #nav {
     height: 42px;
     margin: auto;
+    background: cornflowerblue;
 }
 #nav ul {
     list-style: none; /*Removes bullet points*/
