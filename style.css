@@ -1,5 +1,5 @@
 #nav {
-    height: 42px;
+    height: 48px;
     margin: auto;
     background: cornflowerblue;
 }
@@ -8,17 +8,24 @@
 }
 #nav ul li a {
     height: 42px;
-    line-height: 42px;
+    line-height: 48px;
     float: left; /*Stacks buttons from left to right*/
     padding: 0px 40px; /*Put space between buttons (40px), but leave same spacing above and below (0px).*/
     text-decoration: none; /*Remove default underline*/
     color: white;
 }
+#nav ul li a.active {
+    border-bottom: 6px solid blue;
+}
 #nav ul li a:hover {
+    height: 48px;
+    border-bottom: none;
     color: white;
     background: blue;
 }
 #nav ul li a:active {
+    height: 48px;
+    border-bottom: none;
     color: white;
     background: navy;
 }
