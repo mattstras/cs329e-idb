@@ -1,4 +1,17 @@
 <html>
+<style>
+	table, th, td {
+    	border: 2px solid black;
+    	text-align: left
+    	padding: 4px;;
+	}
+	table {border-collapse: collapse;}
+	th {height: 40px;
+    	background-color: #95B08E;
+	}
+	tr {height: 30px;}
+	tr:nth-child(even) {background-color: #f2f2f2}
+</style>
 	<head>
 		<title>Politicians</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
@@ -13,9 +26,8 @@
                 <li><a href="">Positions</a></li>
             </ul>
         </div>
-		<h1>Politician Table</h1>
-		<br>
-		<table BORDER = "2">
+		<h1>Politicians</h1>
+		<table style="width:100%">
 			<tr>
 				<th>Name</th>
 				<th>Role</th>
