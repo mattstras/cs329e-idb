@@ -30,3 +30,19 @@
     background: navy;
 }
 
+#tbl table, th, td {
+    border: 2px solid black;
+    text-align: left;}
+#tbl th {height: 40px;
+     background-color: #95B08E;
+     text-align: center;
+     padding: 12px;}
+#tbl tr {height: 35px;}
+#tbl td {padding: 8px;}
+#tbl tr:nth-child(even) {background-color: #f2f2f2}
+#tbl table {border-collapse: collapse;
+     margin: auto;
+     width: auto;}
+
+
+
