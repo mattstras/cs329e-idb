@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html>
 <style>
-
+div.left
+{
+float:left;
+width:40%;
+margin:0;
+padding:1em;
+}
+div.content
+{
+margin-left:42%;
+padding:1em;
+}
 </style>
 <head>
     <title>Wisconsin</title>
@@ -17,6 +28,24 @@
                 <li><a href="">Positions</a></li>
             </ul>
         </div>
-	<h1>Wisconsin</h1>
+<p> </p>
+
+<div class="left">
+<h1>Wisconsin</h1>
+
+<ul>
+	<li>Capitol: Madison</li>
+	<li>Governor: Scott Walker (R)</li>
+	<li>Senators:<ol><li>Ron Johnson (R)</li><li>Tammy Baldwin (D)</li></ol></li>
+	<li>Presidential Elections:<ul><li>2016: Republican</li><li>2012: Democrat</li><li>2008: Democrat</li></ul></li>
+
+</ul>
+</div>
+<div class="content">
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:400px;width:600px;'><div id='gmap_canvas' style='height:400px;width:600px;'></div><div><small><a href="http://embedgooglemaps.com">embed google maps</a></small></div><div><small><a href="https://enableflashplayer.com/">check if flash is enabled</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:8,center:new google.maps.LatLng(43.7844397,-88.78786780000001),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(43.7844397,-88.78786780000001)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>Wisconsin, United States<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+</div>
+
+
+
 </body>
 </html>
