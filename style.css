@@ -3,6 +3,14 @@
     margin: auto;
     background: cornflowerblue;
 }
+#nav h1 {
+    height: 48px;
+    line-height: 8px;
+    padding-right: 10px;
+    padding-left: 10px;
+    float: left;
+    color: white;
+}
 #nav ul {
     list-style: none; /*Removes bullet points*/
 }
