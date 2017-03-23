@@ -44,14 +44,14 @@ div.splash {
 }
 div.splash p {
     float: left;
-    max-width: 50%;
+    max-width: 30%;
     font-size: 24;
     padding-left: 50px;
 }
 div.splash h1 {
-    float: left;
-    max-width: 50%;
+    max-width: 30%;
     font-size: 36;
+    padding-top: 20px;
     padding-left: 20px;
 }
 #tbl table, th, td {
