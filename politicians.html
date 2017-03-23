@@ -1,33 +1,22 @@
 <html>
-<style>
-	table, th, td {
-    	border: 2px solid black;
-    	text-align: left
-    	padding: 4px;;
-	}
-	table {border-collapse: collapse;}
-	th {height: 40px;
-    	background-color: #95B08E;
-	}
-	tr {height: 30px;}
-	tr:nth-child(even) {background-color: #f2f2f2}
-</style>
 	<head>
 		<title>Politicians</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-		<div id="nav">
+        <div id="nav">
+            <h1>Politic</h1>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="politicians.html" class="active">Politicians</a></li>
                 <li><a href="state.html">States</a></li>
-                <li><a href="">Positions</a></li>
+                <li><a href="positions.html">Positions</a></li>
             </ul>
         </div>
 		<h1>Politicians</h1>
-		<table style="width:100%">
+        <div id="tbl">
+        <table>
 			<tr>
 				<th>Name</th>
 				<th>Role</th>
@@ -37,25 +26,26 @@
 			</tr>
 			<tr>
 				<td><a href="elizabethwarren.html">Elizabeth Warren</a></td>
-				<td>Senator</td>
+				<td><a href="senator.html">Senator</a></td>
 				<td><a href="massachusetts.html">MA</a></td>
 				<td>D</td>
 				<td>67</td>
 			</tr>
 			<tr>
 				<td><a href="paulryan.html">Paul Ryan</a></td>
-				<td>Representative</td>
+				<td><a href="representative.html">Representative</a></td>
 				<td><a href="wisconsin.html">WI</a></td>
 				<td>R</td>
 				<td>47</td>
 			</tr>
 			<tr>
 				<td><a href="donaldtrump.html">Donald Trump</a></td>
-				<td>President</td>
+				<td><a href="president.html">President</a></td>
 				<td><a href="newyork.html">NY</a></td>
 				<td>R</td>
 				<td>70</td>
 			</tr>
 		</table>
+        </div>
 	</body>
 </html>

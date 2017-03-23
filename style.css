@@ -3,6 +3,14 @@
     margin: auto;
     background: cornflowerblue;
 }
+#nav h1 {
+    height: 8px;
+    line-height: 8px;
+    padding-right: 10px;
+    padding-left: 10px;
+    float: left;
+    color: white;
+}
 #nav ul {
     list-style: none; /*Removes bullet points*/
 }
@@ -30,8 +38,13 @@
     background: navy;
 }
 div.splash {
+    margin-top: 10px;
     height: 100%;
     background-color: rgba(255, 255, 255, 0.85);
+}
+div.splash p {
+    float: left;
+    padding-left: 20px;
 }
 
 #tbl table, th, td {
