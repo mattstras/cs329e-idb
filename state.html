@@ -3,6 +3,21 @@
 <style>
 </style>
 <head>
+
+	<style type="text/css">    
+            .pg-normal {
+                color: black;
+                font-weight: normal;
+                text-decoration: none;    
+                cursor: pointer;    
+            }
+            .pg-selected {
+                color: black;
+                font-weight: bold;        
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        </style>
     <title>States</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -14,6 +29,8 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="java.js"></script>
+        <script type="text/javascript" src="paging.js"></script>
+
 </head>
 <body>
 	<nav class="navbar navbar-default">
@@ -49,44 +66,80 @@
 	</nav>
 <div id="tbl">
 <h1>States</h1>
-<table>
+<form action="" method="get" enctype="application/x-www-form-urlencoded">
+	<div id="tbl">
+        <table id="results">
+            <tr>
+                <th onclick="sortTable(0)">#</th>
+                <th onclick="sortTable(1)">State</th>
+		<th onclick="sortTable(2)">Capitol</th>
+		<th onclick="sortTable(3)">Population</th>
+		<th onclick="sortTable(4)">Electoral College Votes</th>
+		<th onclick="sortTable(5)">House Delegation</th>
 
-  <tr>
-    <th onclick="sortTable(0)">State</th>
-    <th onclick="sortTable(1)">Capitol</th> 
-    <th onclick="sortTable(2)">Population</th>
-    <th onclick="sortTable(3)">Electoral College Votes</th>
-    <th onclick="sortTable(4)">House Delegation</th>
+            </tr>
+            <tr>
+		<td>1</td>
+                <td><a href="massachusetts.html">Massachusetts</a></td>
+    		<td>Boston</td> 
+    		<td>6,794,422</td>
+    		<td>11</td> 
+    		<td>9D</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><a href="wisconsin.html"> Wisconsin </a></td>
+    		<td>Madison</td> 
+    		<td>5,778,708</td>
+    		<td>10</td> 
+    		<td>3D 5R</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><a href="newyork.html">New York</a></td>
+    		<td>Albany</td> 
+    		<td>19,795,791</td>
+    		<td>29</td> 
+    		<td>18D 9R</td>
+            </tr>
+            <tr>
+                <td>4</td>
+    		<td><a href="texas.html">Texas</a></td>
+    		<td>Austin</td> 
+    		<td>27,862,596</td>
+    		<td>38</td> 
+    		<td>11D 25R</td>
   </tr>
-  <tr>
-    <td><a href="texas.html">Texas</a></td>
-    <td>Austin</td> 
-    <td>27,862,596</td>
-    <td>38</td> 
-    <td>11D 25R</td>
-  </tr>
-  <tr>
-    <td><a href="massachusetts.html">Massachusetts</a></td>
-    <td>Boston</td> 
-    <td>6,794,422</td>
-    <td>11</td> 
-    <td>9D</td>
-  </tr>
-  <tr>
-    <td><a href="wisconsin.html"> Wisconsin </a></td>
-    <td>Madison</td> 
-    <td>5,778,708</td>
-    <td>10</td> 
-    <td>3D 5R</td>
-  </tr>
-  <tr>
-    <td><a href="newyork.html">New York</a></td>
-    <td>Albany</td> 
-    <td>19,795,791</td>
-    <td>29</td> 
-    <td>18D 9R</td>
-  </tr>
-</table>
-
-</body>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td><a href="newyork.html">New York</a></td>
+    		<td>text</td> 
+    		<td> text </td>
+    		<td> text </td> 
+    		<td> text </td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td><a href="newyork.html">New York</a></td>
+    		<td>Capitol</td> 
+    		<td> text </td>
+    		<td> text </td> 
+    		<td> text </td>
+            </tr>
+        </table>
+	
+        <div id="pageNavPosition"></div>
+</div>
+        
+    </form>
+    
+    <script type="text/javascript"><!--
+        var pager = new Pager('results', 3); 
+        pager.init(); 
+        pager.showPageNav('pager', 'pageNavPosition'); 
+        pager.showPage(1);
+    //--></script>
+    
+    </body>
 </html>
