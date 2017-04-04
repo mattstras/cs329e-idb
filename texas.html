@@ -1,9 +1,21 @@
 <!DOCTYPE html>
 <html>
 <style>
+div.left
+{
+float:left;
+width:40%;
+margin:0;
+padding:1em;
+}
+div.content
+{
+margin-left:42%;
+padding:1em;
+}
 </style>
 <head>
-    <title>States</title>
+    <title>Texas</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
@@ -13,7 +25,6 @@
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="java.js"></script>
 </head>
 <body>
 	<nav class="navbar navbar-default">
@@ -47,46 +58,20 @@
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
 	</nav>
-<div id="tbl">
-<h1>States</h1>
-<table>
+<p> </p>
 
-  <tr>
-    <th onclick="sortTable(0)">State</th>
-    <th onclick="sortTable(1)">Capitol</th> 
-    <th onclick="sortTable(2)">Population</th>
-    <th onclick="sortTable(3)">Electoral College Votes</th>
-    <th onclick="sortTable(4)">House Delegation</th>
-  </tr>
-  <tr>
-    <td><a href="texas.html">Texas</a></td>
-    <td>Austin</td> 
-    <td>27,862,596</td>
-    <td>38</td> 
-    <td>11D 25R</td>
-  </tr>
-  <tr>
-    <td><a href="massachusetts.html">Massachusetts</a></td>
-    <td>Boston</td> 
-    <td>6,794,422</td>
-    <td>11</td> 
-    <td>9D</td>
-  </tr>
-  <tr>
-    <td><a href="wisconsin.html"> Wisconsin </a></td>
-    <td>Madison</td> 
-    <td>5,778,708</td>
-    <td>10</td> 
-    <td>3D 5R</td>
-  </tr>
-  <tr>
-    <td><a href="newyork.html">New York</a></td>
-    <td>Albany</td> 
-    <td>19,795,791</td>
-    <td>29</td> 
-    <td>18D 9R</td>
-  </tr>
-</table>
+<div class="left">
+<h1>Texas</h1>
+
+<ul>
+	<li>Capitol: Texas</li>
+	<li>Governor: Greg Abbot</li>
+	<li>Senators:<ol><li><a href="tedcruz.html">Ted Cruz</a></li><li> John Cornyn</li></ol></li>
+	<li>Presidential Elections:<ul><li>1961: Republican</li><li>1981: Republican</li><li>1995: Republican</li></ul></li>
+
+</ul>
+</div>
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJqaUj8fBLzEwRZ5UY3sHGz90&key=AIzaSyCgXhgNJRmnHfUxZ88LKSrnNbNHXZEHiRQ" allowfullscreen></iframe>
 
 </body>
 </html>
