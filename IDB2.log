@@ -1,3 +1,53 @@
+commit 867d8df1791056bb02cf2c359bf180c7e44dc846
+Merge: 01ca161 6decc48
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Apr 6 16:08:49 2017 -0500
+
+    Added .json info.
+
+commit 6decc48ef81b21c0f4253b620a703e43ce1f9df0
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Apr 6 16:05:39 2017 -0500
+
+    added self to json
+
+commit 01ca1616b05dbd736c70a1d70794c84dde5e54d7
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Apr 6 16:05:27 2017 -0500
+
+    Added to .json
+
+commit 059f4ad49808982b00e9a56b530e56d44f99286e
+Merge: 4cc5ed3 8ac5466
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:47:14 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 4cc5ed37c4e48ddb882e8423bf2eb4a080ce2006
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:47:10 2017 -0500
+
+    fix member's commit and issue number
+
+commit 8ac546605365288888d7a7f5df1144ac15750970
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 15:29:09 2017 -0500
+
+    bio stuff
+
+commit e728f8f4c7849edbebe99538c39d793ec0e1f63c
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 15:26:16 2017 -0500
+
+    json update
+
+commit bf83de4649b1e420171e62a6461bb350d034b50a
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:15:04 2017 -0500
+
+    add log file, sha, and json file. plus updating commit and issue number
+
 commit d9bd223bd2ba2134840330bfe3121d81ec0ca041
 Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
 Date:   Thu Apr 6 14:56:43 2017 -0500
