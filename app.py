@@ -33,4 +33,4 @@ def positions():
 	return render_template('positions.html') 
 	
 if __name__ == '__main__':
-	app.run() # Run application
+	app.run(‘162.243.41.174’, ‘80’) # Run application
