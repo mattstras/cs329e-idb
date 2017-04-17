@@ -1,0 +1,73 @@
+#nav {
+    height: 48px;
+    margin: auto;
+    background: cornflowerblue;
+}
+#nav h1 {
+    height: 8px;
+    line-height: 8px;
+    padding-right: 10px;
+    padding-left: 10px;
+    float: left;
+    color: white;
+}
+#nav ul {
+    list-style: none; /*Removes bullet points*/
+}
+#nav ul li a {
+    height: 42px;
+    line-height: 48px;
+    float: left; /*Stacks buttons from left to right*/
+    padding: 0px 40px; /*Put space between buttons (40px), but leave same spacing above and below (0px).*/
+    text-decoration: none; /*Remove default underline*/
+    color: white;
+}
+#nav ul li a.active {
+    border-bottom: 6px solid blue;
+}
+#nav ul li a:hover {
+    height: 48px;
+    border-bottom: none;
+    color: white;
+    background: blue;
+}
+#nav ul li a:active {
+    height: 48px;
+    border-bottom: none;
+    color: white;
+    background: navy;
+}
+div.splash {
+    margin-top: 10px;
+    display: block;
+    overflow: auto;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+div.splash p {
+    float: left;
+    max-width: 30%;
+    font-size: 24;
+    padding-left: 50px;
+}
+div.splash h1 {
+    max-width: 30%;
+    font-size: 36;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#tbl table, th, td {
+    border: 2px solid black;
+    text-align: left;}
+#tbl th {height: 40px;
+     background-color: #95B08E;
+     text-align: center;
+     padding: 12px;}
+#tbl tr {height: 35px;}
+#tbl td {padding: 8px;}
+#tbl tr:nth-child(even) {background-color: #f2f2f2}
+#tbl table {border-collapse: collapse;
+     margin: auto;
+     width: auto;}
+
+
+

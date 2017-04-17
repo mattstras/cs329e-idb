@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	<style>
+	p {padding-top: 5px;
+    	padding-right: 30px;
+    	padding-bottom: 2px;
+    	padding-left: 30px;}
+	h1 {padding-top: 5px;
+    	padding-right: 30px;
+    	padding-bottom: 2px;
+    	padding-left: 30px;}
+	</style>
+	<style type="text/css">    
+            .pg-normal {
+                color: black;
+                font-weight: normal;
+                text-decoration: none;    
+                cursor: pointer;}
+            .pg-selected {
+                color: black;
+                font-weight: bold;        
+                text-decoration: underline;
+                cursor: pointer;}
+	    .dataTables_paginate {
+    	    margin-top: 15px;
+    	    position: absolute;
+    	    text-align: right;
+    	    left: 40%;}	
+        </style>
+	
+        <title>Politicians</title>
+
+
+
+
+	<!-- BOOTSTRAP STUFF -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!-- TABLE CSS AND JS FILES -->
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
+	<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+	<script src="jquery.js"></script>
+	<script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
+	<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>	
+	</head>	
+
+
+
+	<body>
+	<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+	    <!-- Brand and toggle get grouped for better mobile display -->
+	    <div class="navbar-header">
+	      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	      </button>
+	      <a class="navbar-brand" href="index.html">Politic</a>
+	    </div>
+
+	    <!-- Collect the nav links, forms, and other content for toggling -->
+	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	      <ul class="nav nav-pills">
+		<!-- Home Button -->
+		<li><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
+		<!-- About Button -->
+		<li><a href="about.html">About</a></li>
+		<!-- Politicians Button -->
+		<li class="active"><a href="politicians.html">Politicians</a></li>
+		<!-- States Button -->
+		<li><a href="state.html">States</a></li>
+		<!-- Positions Button -->
+		<li><a href="positions.html">Positions</a></li>
+		</li>
+	      </ul>
+	    </div><!-- /.navbar-collapse -->
+	  </div><!-- /.container-fluid -->
+	</nav>
+		<h1>Politicians</h1>
+	<table id="example" class="display nowrap" cellspacing="0" width="60%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Role</th>
+                <th>State</th>
+                <th>Party</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="elizabethwarren.html">Elizabeth Warren</a></td>
+		<td><a href="senator.html">Senator</a></td>
+		<td><a href="massachusetts.html">MA</a></td>
+		<td>D</td>
+		<td>67</td>
+            </tr>
+            <tr>
+		<td><a href="paulryan.html">Paul Ryan</a></td>
+		<td><a href="representative.html">Representative</a></td>
+		<td><a href="wisconsin.html">WI</a></td>
+		<td>R</td>
+		<td>47</td>
+            </tr>
+            <tr>
+                <td><a href="donaldtrump.html">Donald Trump</a></td>
+		<td><a href="president.html">President</a></td>
+		<td><a href="newyork.html">NY</a></td>
+		<td>R</td>
+		<td>70</td>
+            </tr>
+            <tr>
+    		<td><a href="johnrobert.html">John Robert</a></td>
+		<td><a href="chiefjustice.html">Chief Justice</a></td>
+		<td><a href="newyork.html">NY</a></td>
+		<td>None</td>
+		<td>62</td>
+  	    </tr>
+            <tr>
+                <td><a href="tedcruz.html">Ted Cruz</a></td>
+		<td><a href="senator.html">Senator</a></td>
+		<td><a href="texas.html">TX</a></td>
+		<td>R</td>
+		<td>46</td>
+            </tr>
+            <tr>
+                <td><a href="steveadler.html">Steve Adler</a></td>
+		<td><a href="mayor.html">Mayor</a></td>
+		<td><a href="texas.html">Austin, TX</a></td>
+		<td>D</td>
+		<td>61</td>
+            </tr>
+	    <tr>
+		<td><a href="gregabbott.html">Greg Abbott</a></td>
+		<td><a href="governor.html">Governor</a></td>
+		<td><a href="texas.html">TX</a></td>
+		<td>D</td>
+		<td>61</td>
+	    </tr>
+	    <tr>
+		<td><a href="lisamurkowski.html">Lisa Murkowski</a></td>
+		<td><a href="senator.html">Senator</a></td>
+		<td><a href="alaska.html">AK</a></td>
+		<td>R</td>
+		<td>59</td>
+	    </tr>
+        </tbody>
+    </table>
+	<script>
+	$.extend( $.fn.dataTable.defaults, {
+    	responsive: true } );
+ 
+	$(document).ready(function() {
+    	$('#example').DataTable({
+	"iDisplayLength": 3,
+	"bFilter": false,
+	"bInfo": false,
+	"bLengthChange": false
+	}); } );
+	</script>
+
+
+        	</body>
+</html>
