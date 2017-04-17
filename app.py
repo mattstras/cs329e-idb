@@ -16,14 +16,21 @@ URLs that will call the index() function if running app.py on localhost:
 def index():
 	return render_template('index.html') # located in templates/
 	
-@app.route('/page2')
-def page2():
-	return render_template('page2.html')
+@app.route('/about')
+def about():
+	return render_template('about.html')
 	
-@app.route('/page3')
-def page3():
-	dict = {'string1' : 'Testing.', 'string2' : 'Hello, World!'}
-	return render_template('page3.html', strings = dict) # Example of argument passing to HTML template
+@app.route('/politicians')
+def politicians():
+	return render_template('politicians.html') 
+
+@app.route('/state')
+def state():
+	return render_template('state.html') 
+
+@app.route('/positions')
+def positions():
+	return render_template('positions.html') 
 	
 if __name__ == '__main__':
 	app.run() # Run application

@@ -11,9 +11,9 @@
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="static/css/style.css">
         <style>
-            body {background-image: url('images/splashpage_background.jpg');
+            body {background-image: url('static/images/splashpage_background.jpg');
                   background-attachment: fixed;}
 
             div.rssfeed {float: right;
@@ -31,22 +31,22 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="index.html">Politic</a>
+	      <a class="navbar-brand" href={{url_for("index")}}>Politic</a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav nav-pills">
 		<!-- Home Button -->
-		<li class="active"><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
+		<li class="active"><a href={{ url_for("index") }}>Home<span class="sr-only">(current)</span></a></li>
 		<!-- About Button -->
-		<li><a href="about.html">About</a></li>
+		<li><a href={{url_for("about")}}>About</a></li>
 		<!-- Politicians Button -->
-		<li><a href="politicians.html">Politicians</a></li>
+		<li><a href={{url_for("politicians")}}>Politicians</a></li>
 		<!-- States Button -->
-		<li><a href="state.html">States</a></li>
+		<li><a href={{url_for("state")}}>States</a></li>
 		<!-- Positions Button -->
-		<li><a href="positions.html">Positions</a></li>
+		<li><a href={{url_for("positions")}}>Positions</a></li>
 		</li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
