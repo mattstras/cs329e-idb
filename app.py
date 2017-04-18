@@ -127,6 +127,10 @@ def texas():
 @app.route('/wisconsin')
 def wisconsin():
 	return render_template('wisconsin.html') 
+
+@app.route('/elizabethwarren')
+def elizabethwarren():
+	return render_template('elizabethwarren.html')
 	
 if __name__ == '__main__':
-	app.run(‘162.243.41.174’, ‘80’) # Run application
+	app.run() # Run application
