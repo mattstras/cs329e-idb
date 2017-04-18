@@ -39,7 +39,7 @@
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
 	<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
-	<script src="jquery.js"></script>
+	<script src="static/js/jquery.js"></script>
 	<script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
 	<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>	
 	</head>
@@ -55,22 +55,22 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="index.html">Politic</a>
+	      <a class="navbar-brand" href={{url_for("index")}}>Politic</a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav nav-pills">
 		<!-- Home Button -->
-		<li><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
+		<li><a href={{url_for("index")}}>Home<span class="sr-only">(current)</span></a></li>
 		<!-- About Button -->
-		<li><a href="about.html">About</a></li>
+		<li><a href={{url_for("about")}}>About</a></li>
 		<!-- Politicians Button -->
-		<li><a href="politicians.html">Politicians</a></li>
+		<li><a href={{url_for("politicians")}}>Politicians</a></li>
 		<!-- States Button -->
-		<li><a href="state.html">States</a></li>
+		<li><a href={{url_for("state")}}>States</a></li>
 		<!-- Positions Button -->
-		<li class="active"><a href="positions.html">Positions</a></li>
+		<li class="active"><a href={{url_for("positions")}}>Positions</a></li>
 		</li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
@@ -90,42 +90,42 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="president.html">President</a></td>
+                <td><a href={{url_for("president")}}>President</a></td>
 		<td>4 Years</td>
 		<td>1</td>
 		<td>Executive</td>
 		<td>$400,000</td>
             </tr>
             <tr>
-		<td><a href="senator.html">Senator</a></td>
+		<td><a href={{url_for("senator")}}>Senator</a></td>
 		<td>6 Years</td>
 		<td>Unlimited</td>
 		<td>Legislative</td>
 		<td>$174,000</td>
             </tr>
             <tr>
-		<td><a href="representative.html">Representative</a></td>
+		<td><a href={{url_for("representative")}}>Representative</a></td>
 		<td>2 Years</td>
 		<td>Unlimited</td>
 		<td>Legislative</td>
 		<td>$174,000</td>
 	    </tr>
 	    <tr>
-		<td><a href="chiefjustice.html">Chief Justice</a></td>
+		<td><a href={{url_for("chiefjustice")}}>Chief Justice</a></td>
 		<td>Life Tenure</td>
 		<td>0</td>
 		<td>Judicial</td>
 		<td>$255,500</td>
 	    </tr>
 	    <tr>
-		<td><a href="governor.html">Governor</a></td>
+		<td><a href={{url_for("governor")}}>Governor</a></td>
 		<td>4 Years</td>
 		<td>No Limit but up to 2 Consecutive Terms*</td>
 		<td>Executive</td>
 		<td>$137,415 Average</td>
        	    </tr>
 	    <tr>
-		<td><a href="mayor.html">Mayor</a></td>
+		<td><a href={{url_for("mayor")}}>Mayor</a></td>
 		<td>4 Years (most common)</td>
 		<td>Limits Vary From Local Goverments</td>
 		<td>Executive</td>
