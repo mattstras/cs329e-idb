@@ -1,0 +1,1336 @@
+commit afe3e43984a121b399c8b2f8b3feb6525fd5907d
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Apr 20 17:04:31 2017 -0500
+
+    Added info to JSON
+
+commit 067c77893ab016abe3c5017726314fd0e5365f9c
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Apr 20 16:54:57 2017 -0500
+
+    Added the thing.
+
+commit 6f4f9caf06994ea98ad71f3035f8bcc5b0b4dfba
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 20 16:51:27 2017 -0500
+
+    fixed speaker deck link
+
+commit f8c85dc110e41199b8dea9567c7800e2d5d63552
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Thu Apr 20 16:47:52 2017 -0500
+
+    updated number of commits
+
+commit ff3f0a16c9a45f2cd1630d1360d5387a2a3b9c4e
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 20 16:43:30 2017 -0500
+
+    update total issue and commit number
+
+commit 6abbc610ce7cd8246ea07484810dec087ffaf1bc
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 20 16:38:21 2017 -0500
+
+    update commit number and issues
+
+commit 9d538d28b6e161f7b78b04a4faeda2c55a658922
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 20 15:35:25 2017 -0500
+
+    updated links
+
+commit 2569276662c5a7fb16895aac1845af94f4be3a42
+Author: root <root@politic.localdomain>
+Date:   Thu Apr 20 00:06:30 2017 +0000
+
+    Updated splash page text.
+
+commit 7d2ed362f0ed150e8d7bd548598313d10134c99b
+Author: root <root@politic.localdomain>
+Date:   Thu Apr 20 00:03:55 2017 +0000
+
+    Changed links to images in positions pages +Ted Cruz.
+
+commit efdabe7c5ac89882b3b29e430b37c62b5f241bb8
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Apr 19 19:03:05 2017 -0500
+
+    found matt
+
+commit 4bb7487c9c222cc76d46dd10d0ccb5696021da69
+Author: root <root@politic.localdomain>
+Date:   Wed Apr 19 23:52:30 2017 +0000
+
+    Changed hrefs to work with Flask
+
+commit 90794e6577c2b5fc5e169bd9d0ee10146b1b5177
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Wed Apr 19 16:48:23 2017 -0500
+
+    Update positions.html
+    
+    Fixed mayor number for order
+
+commit 690608b160e43f70cbee44f126cb92d0fef3f707
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Wed Apr 19 16:33:11 2017 -0500
+
+    TEST
+
+commit cd43bad02130ab4fa2d7965ac72abe368cfb4471
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Wed Apr 19 16:30:28 2017 -0500
+
+    Update positions.html
+    
+    numbers were weird, fixed
+
+commit 46b2f694699212908132436b9613f9bd69be8da6
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Apr 19 15:39:28 2017 -0500
+
+    updated app.run()
+
+commit 62df5de71910d7c39200eba386094d9d375fc981
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Wed Apr 19 09:16:57 2017 -0500
+
+    updated references in steveadler.html
+
+commit 11287ce2ec681caa59422fd9934f66f6cdf7a62a
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 14:08:38 2017 -0500
+
+    updated references in paulryan.html
+
+commit cec2fb3cbb027d1d29e8df658dba5805eee74136
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 14:05:28 2017 -0500
+
+    updated references in lisamurkowski.html
+
+commit 470be73bf2095ff1fca96dcc091813710dd9a777
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 14:02:05 2017 -0500
+
+    updated references in johnrobert.html
+
+commit ae3380410d7fa31d89a35e237bc23264b58f6fe7
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 11:40:12 2017 -0500
+
+    updated references for gregabbott.html
+
+commit a5c752089bc735947ed3eb5833c9630d3ac94197
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 11:34:22 2017 -0500
+
+    updated references in elizabethwarren.html
+
+commit c95812da46af0b069f8df079d9b77c4e0137e0db
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Tue Apr 18 11:30:40 2017 -0500
+
+    updated references on donaldtrump.html
+
+commit 6c48b3ea72f3abe0f75e384d1d20c3d4584fe347
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Apr 17 20:31:28 2017 -0500
+
+    updated links in positions page
+
+commit a575f3f49922cdaa8fb8c5a7fbea12297a7308b0
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Apr 17 20:26:25 2017 -0500
+
+    updated links in states page
+
+commit 1ebfad956def1bcb57d71c18e4e691b713216023
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Apr 17 20:21:04 2017 -0500
+
+    updated image references in individual about pages
+
+commit 081f6ff747b2f68f19f910f0a3a7cc485f14f4d2
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Apr 17 20:12:15 2017 -0500
+
+    updated links/images for about page
+
+commit 1e951c10d0ce7a40cdd7ec98684dbd0379c64498
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Apr 17 20:06:40 2017 -0500
+
+    moved javascript files into static folder
+
+commit 80cd00dc93deef14fb1bfbcb110a596275528b19
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 16:28:49 2017 -0500
+
+    edited links on politicians page
+
+commit 945411714ec88843717ccf07e51b49a40fc599a8
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 16:19:06 2017 -0500
+
+    added routing functions for all pages
+
+commit 73f897f23dc56b595b312fe112bc3dcef1760787
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Mon Apr 17 16:08:32 2017 -0500
+
+    updated app.py
+
+commit 382318ac16fd84c7cad47d885e3fc77b6411b06e
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 16:03:29 2017 -0500
+
+    modified links in index.html to work with Flask
+
+commit 64a10ca2ef62544026f960f05dca5a848500dd25
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 15:34:15 2017 -0500
+
+    added app.py
+
+commit b27e1f086491a0ca5db8a7f51253b4a743004b35
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 15:31:13 2017 -0500
+
+    reorganized files for Flask integration
+
+commit aab8d0d062ef25efdc39970d86ab21182717beb0
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 15:22:50 2017 -0500
+
+    installed Flask
+
+commit 7d10423fdbd079e55cb89f1a580eb8e508635789
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Mon Apr 17 15:19:58 2017 -0500
+
+    created  virtual environment
+
+commit 5e40c77422e642fd1315ed946098530fb451dcfd
+Author: Richard Seifert <rs45899@acc22.as.utexas.edu>
+Date:   Thu Apr 6 18:56:48 2017 -0500
+
+    updated commits count in about page.
+
+commit 867d8df1791056bb02cf2c359bf180c7e44dc846
+Merge: 01ca161 6decc48
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Apr 6 16:08:49 2017 -0500
+
+    Added .json info.
+
+commit 6decc48ef81b21c0f4253b620a703e43ce1f9df0
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Apr 6 16:05:39 2017 -0500
+
+    added self to json
+
+commit 01ca1616b05dbd736c70a1d70794c84dde5e54d7
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Apr 6 16:05:27 2017 -0500
+
+    Added to .json
+
+commit 059f4ad49808982b00e9a56b530e56d44f99286e
+Merge: 4cc5ed3 8ac5466
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:47:14 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 4cc5ed37c4e48ddb882e8423bf2eb4a080ce2006
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:47:10 2017 -0500
+
+    fix member's commit and issue number
+
+commit 8ac546605365288888d7a7f5df1144ac15750970
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 15:29:09 2017 -0500
+
+    bio stuff
+
+commit e728f8f4c7849edbebe99538c39d793ec0e1f63c
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 15:26:16 2017 -0500
+
+    json update
+
+commit bf83de4649b1e420171e62a6461bb350d034b50a
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Apr 6 15:15:04 2017 -0500
+
+    add log file, sha, and json file. plus updating commit and issue number
+
+commit d9bd223bd2ba2134840330bfe3121d81ec0ca041
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 14:56:43 2017 -0500
+
+    Updated all tables
+
+commit 5b4012932b4e255996127581d77d2bc12c8a84c0
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 11:28:27 2017 -0500
+
+    added state
+
+commit d6bef166e395051675fb31e8da16c8b0787a59b4
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Apr 6 11:12:16 2017 -0500
+
+    better tables and added new maps
+
+commit 2ca3b5209df699f83ff1d374a8cf08586e661cb6
+Author: CHIENCHIHHUANG\ChienChihHuang <huang6661@utexas.edu>
+Date:   Tue Apr 4 22:37:21 2017 -0500
+
+    add lisa
+
+commit 651d9d3e271c7a18fb7b6313310481da8b75247b
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Tue Apr 4 17:27:17 2017 -0500
+
+    added pagination to states table
+
+commit a80cfdfb5656d67b64105f8905b311943cf66d06
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:15:58 2017 -0500
+
+    added Greg Abbott to politicians table
+
+commit 8b9996eacd95f4cc8e4ff10ada3db67aabaa4c20
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:14:31 2017 -0500
+
+    added page for Greg Abbott
+
+commit 30874c9a5c164121098357e8e82f0c2f772de2a8
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:10:33 2017 -0500
+
+    fix politicians table
+
+commit 93a1dcdadccc485a637fc2f584eaeaf219d49b3a
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:09:08 2017 -0500
+
+    added Steve Adler to politicians table
+
+commit 6c4a3c37fa6e7553132349ae32d5e3c0e2e24771
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:05:40 2017 -0500
+
+    added Steve Adler page
+
+commit d8728dc04ea72424eef795a9b981afd76b1a4677
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 17:01:11 2017 -0500
+
+    separated chief justice into two words
+
+commit ad35b57dd13e8096e8a767f5c94fb04e6a752d2a
+Author: Matthew Larsen <mel2842@cs.utexas.edu>
+Date:   Tue Apr 4 16:59:40 2017 -0500
+
+    sort politician table by clicking table headers
+
+commit aa23b4ed63169cfe7e1d7ac8cbd0ca62d93f3bc6
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:54:23 2017 -0500
+
+    Update mayor.html
+
+commit edf083a17259269269abe853851aaee7cebe1667
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:53:39 2017 -0500
+
+    Update mayor.html
+
+commit 4b500271a6c3f1d8226eac46dc11c1d48c65df9e
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:52:54 2017 -0500
+
+    Added state of Texas.
+
+commit 5bdcc70f1f237a34f971992c672bd3b9f141d54a
+Merge: 6f75eec f1e7e73
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:52:32 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 6f75eec31fc3c282ce52eca9bd09f8fa74c0e628
+Merge: 787758b f26e82b
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:52:16 2017 -0500
+
+    .
+
+commit f1e7e737a01fe719436fdc35461e6796914badfe
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:50:47 2017 -0500
+
+    sclaed image
+
+commit f26e82b811cdb0e4a5a096362c577a9b36ddcf5a
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Tue Apr 4 16:49:48 2017 -0500
+
+    fix john robert
+
+commit 787758b573d827c3c9738a555eddde913eb806c4
+Merge: afc19d8 7ea8169
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:47:21 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 7ea8169b9170c0f9bd8484569984b8502b49d58b
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:43:05 2017 -0500
+
+    Add files via upload
+
+commit 91cc6aef39c2c1c2316d00062448d324ff1ddd3f
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Tue Apr 4 16:38:49 2017 -0500
+
+    add johnrobert
+
+commit afc19d899c33347cd64bd225ba7a447db33e8514
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:38:01 2017 -0500
+
+    Fixed weird spacing.
+
+commit 4002747d55cc261b6dd84f81bf17ef5c0dcccbd0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:37:10 2017 -0500
+
+    Update positions.html
+
+commit 6789bf0a99ae4f73f49eaf6843f94026c011e3c0
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:36:48 2017 -0500
+
+    Added Ted Cruz
+
+commit 2c5e9ab4c6e1ccb47f467effb77e428d6d963355
+Merge: 9449584 b13ec8e
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:33:39 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit b13ec8e906d7341b885aab784e328bd7c6934912
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Tue Apr 4 16:31:52 2017 -0500
+
+    external java.js file for table javascript linking
+
+commit 9449584e3452234aa8238438872cbc4b515bd5e0
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:30:52 2017 -0500
+
+    Added template positions instance page.
+
+commit 182e4072691ef3987a1358d2d648d2bf26f1da86
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:26:18 2017 -0500
+
+    mayor picture added
+
+commit 9daa1b31b49f4a9f2f70f681482eaa586f449be7
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:25:53 2017 -0500
+
+    added mayor
+
+commit f7c0ec9ce1bce8322712018da6a603d32d8fb567
+Merge: 7ec86f8 c5c8927
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Tue Apr 4 16:22:35 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 7ec86f805552999cea9666f6acae81e0d8267488
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Tue Apr 4 16:21:58 2017 -0500
+
+    add johnrobert
+
+commit c5c892788d6512fed0fe266b8e5f233802c71b71
+Merge: ee588bc 7a4e0c8
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:13:32 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit ee588bc5f341a1ff11840d6319f2e41abbeba838
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 16:13:03 2017 -0500
+
+    Added templates for states and politicians instance pages.
+
+commit 7a4e0c8b12fec1584f8ffab545e6e63487277e70
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 16:00:17 2017 -0500
+
+    updated for consistency
+
+commit fc93c854e2c640c6904f8522077e62d40a2b2190
+Merge: 30b31c9 b2e0247
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:58:34 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit b2e0247e930219dfb7bb45fbfb35f6e6c8942d59
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:58:31 2017 -0500
+
+    updated for consistancy
+
+commit 30b31c962a596d74baf4192f0469cd8fed4c9086
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:58:28 2017 -0500
+
+    Added bootsrap navbar to positions instance pages.
+
+commit 808943f03ae66ca1ac703b1b39a774f9a6df96fb
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:55:49 2017 -0500
+
+    Updated for consistency
+
+commit 8a442dda39b8d331817e29c5fbe93e5795bac219
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:53:08 2017 -0500
+
+    Added bootsrap navbar to states instance pages.
+
+commit 52d7c5dabb8b2f085ed198ceed9b81dca7272b48
+Merge: 0f42578 ac40af4
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:48:46 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 0f42578748e106beefe8a5562d2b8a0d588281c9
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:48:37 2017 -0500
+
+    Added bootsrap navbar to politicians instance pages.
+
+commit ac40af41bbdbf72b5014de2d8ab9da24a120a3c9
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:48:15 2017 -0500
+
+    Update senator.html
+
+commit 9daac69c068de666dd24a6298c8d287cd01de6e8
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:48:01 2017 -0500
+
+    Update representative.html
+
+commit e47b5f66bf0236a38e81535035d04fcc2836819d
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:47:03 2017 -0500
+
+    Update president.html
+
+commit bf503bd6e3c0e64785c75a41ac31aa388fc50ed4
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:46:36 2017 -0500
+
+    Update governor.html
+
+commit eb376adcb9131558c59c6acd53806cff868df6a4
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:45:50 2017 -0500
+
+    Update chiefjustice.html
+
+commit b4f041af47e06731c947dbe51906d258c30b18f6
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:41:57 2017 -0500
+
+    consistent
+
+commit 100d789249779c4f23b65454c4506bca6791e699
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:41:23 2017 -0500
+
+    consistent
+
+commit 8a0ec34716954ab354927795153fa5c688a516c8
+Merge: 542414a 7604d21
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:40:54 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 7604d21830370889e2998dcecbdb3088e552b59f
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:40:52 2017 -0500
+
+    consistent
+
+commit 542414aeb435676f83b4b652cfa9c950786be580
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:40:16 2017 -0500
+
+    Added link to site name in navbar.
+
+commit 184052c4633031c22f3f1eae9d421d8ddf4b54c6
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:40:00 2017 -0500
+
+    page more consistent
+
+commit 06b07a9eb8194189ee2d24f9f2424fae5aab342b
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:39:03 2017 -0500
+
+    page more consistent
+
+commit 716c1b99ec59075649f0627895233c4563653b49
+Merge: 77f71ec 73d9cca
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:24:44 2017 -0500
+
+    Added bootstrap nav bar.
+
+commit 77f71ecc9b43f07f2d532d83ca61a3e791715996
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:19:48 2017 -0500
+
+    Added bootstrap navbar to model pages.
+
+commit 73d9cca12dbfc0d2f21bbcef150ded54385ef200
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:14:04 2017 -0500
+
+    updated sorting
+
+commit 0f3125d6f2c43aa7cb9a73bd7ff05254fd1e1212
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:12:49 2017 -0500
+
+    Sorting implemented
+
+commit 65364f6f1798baf09e3feeca53a608fab65d314a
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:06:22 2017 -0500
+
+    updated sorting
+
+commit b88fe6d6198f3455853036627a87d88d0e1056c1
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Tue Apr 4 15:05:02 2017 -0500
+
+    unify about page with other pages
+
+commit e96c4018037bb6320500a7e16a0d80d9bf57d2e4
+Merge: 5e6e937 6b4a632
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:02:21 2017 -0500
+
+    Merge branch 'master' into bootstrap_navbar
+
+commit 6b4a632ea6864d1c6965ba79ee2176b10e98599d
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 15:00:59 2017 -0500
+
+    sorting
+
+commit 5e6e937ad3fa2d16116b940f86bc108a3a1d81fb
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 15:00:04 2017 -0500
+
+    Changed "Positions" from dropdown to button
+
+commit 09b914532e7f9799a482dd10b0723a6d4f955880
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 14:46:42 2017 -0500
+
+    Fixed splash page background height issue.
+
+commit 4e5d8ce4449093259e2b9fbfe95e37aa62b24343
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Tue Apr 4 14:33:47 2017 -0500
+
+    Added bootstrap nav bar to splash page.
+
+commit d1c3b9f692b3d5283f08d8cad113caf41bfe4fd0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Tue Apr 4 14:21:52 2017 -0500
+
+    updated info for easier sort
+
+commit f873c5c4f7bab58eca399254109c786151a5d046
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Tue Apr 4 11:42:36 2017 -0500
+
+    basic sortability to states table
+
+commit 3c65fc0bb66471ea21a930449ba4da602a8e04c9
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Mar 23 18:22:49 2017 -0500
+
+    log
+
+commit 94a157ad22c3b95d2abfe92b41ab5d0a63794843
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Mar 23 18:13:26 2017 -0500
+
+    update #of commit and issue
+
+commit 58e932dbaf3e7c103f6ab45b6eb3b4e243befff8
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Mar 23 18:07:31 2017 -0500
+
+    fixed typo
+
+commit 17cc6df5dfd7f52eefdcbf21fd3140eade3334a0
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 17:53:42 2017 -0500
+
+    Removed old rss reader things.
+
+commit 0f748759af851c0cdb3bd5471005f368fe0de635
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 17:43:07 2017 -0500
+
+    Resize splash page text.
+
+commit a537163c144ccf3c2431366ab94d9292b818c9e3
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Mar 23 17:33:02 2017 -0500
+
+    change group name
+
+commit 2c71d32029841b2690948b6291e7ba7560571f82
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Mar 23 17:27:24 2017 -0500
+
+    space between tools
+
+commit f80450a9a0942aefb3e44ff4d73b624dd416ced5
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 17:24:02 2017 -0500
+
+    Editted splash page text.
+
+commit 05672d05b6fcf1e74e1f2bd8cbcb094a71644ab4
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Mar 23 17:22:57 2017 -0500
+
+    diagram for wiki
+
+commit a9405e478c42f5228a18d9a4df53ecab8f87d1e9
+Merge: 789e416 cdba035
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Mar 23 17:21:51 2017 -0500
+
+    add total num of issue nad commit
+
+commit 789e416c0ab7113142ec281c78b3a34140758b46
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Thu Mar 23 17:17:35 2017 -0500
+
+    add total commit and issue number
+
+commit cdba0358d3caf4d7bc26a56f05cdfc0dbaeec865
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Mar 23 17:06:49 2017 -0500
+
+    resized Warren/Trump pictures
+
+commit 79e848a927b4fdcaf40ed91631816baf37da26c0
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Mar 23 16:38:33 2017 -0500
+
+    added links to position pages from politician pages
+
+commit 14177b5d04cc26cad60d4161767310178abce1de
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 16:20:54 2017 -0500
+
+    Fixed weird spacing.
+
+commit 6ce26e0f1a16f265759e0c785f47e721b3d44fc3
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:17:48 2017 -0500
+
+    added pic
+
+commit fb11faf921b5b99232b4521a43db066028e90335
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:17:19 2017 -0500
+
+    added pic
+
+commit 9a6162e6fd266d2cfa23739637f492524c6479ea
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:16:44 2017 -0500
+
+    added pic
+
+commit 3b383fe3739732ff5f87f70fe356ca67d6166ba0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:16:12 2017 -0500
+
+    added pic
+
+commit 31151f33246342c2898ae2b311736885559ad477
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:15:33 2017 -0500
+
+    added pic
+
+commit e00efff199d9dbd2954f42980668efdf0d4a4681
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 16:11:38 2017 -0500
+
+    pictures for positions
+
+commit 06ac35de6b38b8025b513d2c7bbe98341eb5770c
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 16:00:57 2017 -0500
+
+    Added site name to nav bar.
+
+commit 6a652d35e46cd617c14fcbf3831284f27f1d4ee7
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 15:54:42 2017 -0500
+
+    Update senator.html
+
+commit 9727ff099b372b63853595efd27fddd192cf6e1d
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 15:54:31 2017 -0500
+
+    Update representative.html
+
+commit 91da04e6605c78bcb367aeb3145dfe358a7922d6
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 15:54:16 2017 -0500
+
+    Update president.html
+
+commit 48550ca8f07769fb5b358367ea389ed04d0e9709
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 15:53:59 2017 -0500
+
+    Update governor.html
+
+commit 0b3690960bd417d945c7190f96fc41ccb17990a6
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 15:53:45 2017 -0500
+
+    Update chiefjustice.html
+
+commit cbf78ddbde56b1833e597f8edd725c21f3fb7f0e
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Mar 23 15:46:53 2017 -0500
+
+    added bio to about page
+
+commit 6b6d8e414c60f0940562e3d1f2bfc671d9b3bff0
+Author: Richard Seifert <richseif@cs.utexas.edu>
+Date:   Thu Mar 23 15:43:09 2017 -0500
+
+    Added link to positions.html from index.html
+
+commit ba1cf2a801e1cdcd6698f7932d9f07c1b433cb39
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Mar 23 15:36:04 2017 -0500
+
+    added links in states pages
+
+commit 984269d12a484c4062e6791e6376bd1d2a4f4ea5
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Thu Mar 23 15:22:42 2017 -0500
+
+    cname
+
+commit 52efc99665d1987f206b54006ba826f7bad209ec
+Author: mattstras <matthew.strasburg@utexas.edu>
+Date:   Thu Mar 23 15:20:17 2017 -0500
+
+    Added CNAME file for custom domain (politic329.me)
+
+commit 93c6653ce3bea3e0027c681f851ca98cd8ea13c7
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 14:31:20 2017 -0500
+
+    Trying new rss feed.
+
+commit 084bc8b3ca43154f7108ba49143e933b0687b0fc
+Merge: 5e3d781 901a8ad
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 14:08:16 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 5e3d781a111af896e9472c877480670a71a03884
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 14:08:10 2017 -0500
+
+    Fixing rss feed reader.
+
+commit 901a8ad9159934378afb945210783be10cc964a0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:54:32 2017 -0500
+
+    added link to positions page
+
+commit 61b3ed41b5e69a51d2bd7d219c01c4e6ff2f61fa
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:54:11 2017 -0500
+
+    Update chiefjustice.html
+
+commit c84a771dd083d0f6a79d8f90f6b16addb87c5153
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:53:44 2017 -0500
+
+    added link to positions page
+
+commit c0f516f8e2139e453f47bdf4108c0fb656b542ef
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:53:15 2017 -0500
+
+    added link to positions page
+
+commit 9cd735c0306ff32a34b2afd13dde701a8fb12a6c
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:52:51 2017 -0500
+
+    added link to positions page
+
+commit 423cdfe3128d560ca08dcb23da5a0b85febbd176
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:52:11 2017 -0500
+
+    added link to positions page
+
+commit c7e9e78e80b5a54a00f3d2a6a9698f8b97abaf11
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:51:00 2017 -0500
+
+    added link to positions page
+
+commit f2310081473b47005ac65fd566b03c66cea60b02
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:49:41 2017 -0500
+
+    added link to positions page
+
+commit 7aba5217cb1cc928a6e7cd392decb604dc3b9123
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:48:58 2017 -0500
+
+    added link to position page
+
+commit 079d6d59904a67330262e2036cc8af403b9b7721
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:48:18 2017 -0500
+
+    added link to positions page
+
+commit 9b391ad7ddca15176126bc0bcc937c90d1e76c3b
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:47:01 2017 -0500
+
+    Update positions.html
+
+commit 0473f6a312f75260f2f2b86470ba7070dcf57923
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:46:38 2017 -0500
+
+    added link to positions page
+
+commit 491ee4ccf54abcd079e15d1b086ef0e69c977cb0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:45:16 2017 -0500
+
+    added link to positions page
+
+commit 18e3c4e66e3cc73af2e58754dc7662fa824aa146
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:43:12 2017 -0500
+
+    added link to positions page
+
+commit 5c5f8490b615afde86b98eb7a03cc5762f402a26
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:42:26 2017 -0500
+
+    added link to positions page
+
+commit ac8c766874673ebf9253d970066713190b7e158b
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:41:39 2017 -0500
+
+    added link to positions page
+
+commit 47b92d84e422fa69eaf42170a175a48792fe8955
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:26:04 2017 -0500
+
+    updated information on responsibilities
+
+commit 5e181c812bfbfabcc6e8513d9e6388cc8cf65340
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 13:21:46 2017 -0500
+
+    Positions page added
+    
+    added the position page and the related pages
+
+commit d8acdbf48944c567801f187310441cd45ae6bb6f
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 13:08:52 2017 -0500
+
+    Fixing rss feed reader.
+
+commit c3a3f6e9407b3b57252b4388bf7ba6daef6a82b0
+Merge: 2a0e2bb f1eb02d
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 13:05:46 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 2a0e2bb64ff4bcc5c65ea22451df685ae3ce89bf
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 13:05:34 2017 -0500
+
+    Fixing rss feed reader.
+
+commit f1eb02d42a4a55acb9e3543b25e47083b3f2c244
+Merge: f905ba9 5d130f4
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Mar 23 13:03:00 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit f905ba9c5c7b9a35f94d50f0ab7fe54bc038da0e
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Thu Mar 23 13:02:47 2017 -0500
+
+    added photo/bio
+
+commit 5d130f427bf4f43828d0b16cd1e9a1aaf04012d1
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:58:51 2017 -0500
+
+    Fixing rss feed reader.
+
+commit 9eb7da367c8ef2db4f22fbd41f52221056c066da
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:55:21 2017 -0500
+
+    fixing rss feed reader.
+
+commit 472f55edcbf0de255e5ea663d1c2a2e6d3c8b89b
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:49:54 2017 -0500
+
+    Fixing rss feed reader.
+
+commit f53674022b78407469cd8d10910d4b566cc9b1e0
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:40:46 2017 -0500
+
+    Again, trying to fix rss feed reader.
+
+commit 55ccff73cf722955772f96f41cee8288bf83b7e5
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:36:31 2017 -0500
+
+    Attempting to fix rss feed reader again.
+
+commit 5548454f04bacca9066d29ebfa040daf88421f26
+Merge: fe165fe 3b7a725
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:26:42 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit fe165fe9e951b22e157590a7ad2a4d877bc0d074
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:25:47 2017 -0500
+
+    Attemted to fix rss feed reader.
+
+commit 3b7a7258570826fa8dbeb846106333ace953b55f
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 12:20:13 2017 -0500
+
+    Alan bio pic
+
+commit a8b7a5070104551f9920997b9c2b47f6d57e67f0
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 12:19:28 2017 -0500
+
+    Update alanmorales.html
+
+commit 2926f93db1acbc05d2997844366abd856bb5cc26
+Author: alanmms <alan.morales95@gmail.com>
+Date:   Thu Mar 23 12:18:08 2017 -0500
+
+    Added bio info
+
+commit 9c8a6d133f220de9229f6d04d1888245fcfb043b
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Thu Mar 23 12:06:33 2017 -0500
+
+    Added rss feed to splash page.
+
+commit 332ddc64416b6ccd779ef8b211cbdfb93c295db9
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Mar 22 23:33:43 2017 -0500
+
+    fixed map issues
+
+commit 0cfdb1748367cea7f08b6bdf1c56bb4e40ed423a
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Mar 22 23:10:54 2017 -0500
+
+    fix map error?
+
+commit 23cd3167764b74974790a49c4e2020ad3c2c5757
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Mar 22 23:00:04 2017 -0500
+
+    info and maps to ind. states pages
+
+commit 49cd0845f4a7c74d0e9d13a5a6df8c0c077be898
+Merge: 52fbafd cb700b0
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:44:05 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 52fbafd268bb0c1a69e99ec75f1bb0c9249d0e5b
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:43:59 2017 -0500
+
+    Changed table to use style from style.css
+
+commit cb700b040a719dbf5b84116f0d0283062f69d944
+Merge: fdd9982 a11b26b
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Wed Mar 22 16:37:15 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit a11b26b71f30d14a329a3fe7ff97a7b71206be7c
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:34:16 2017 -0500
+
+    Added nav bar to politicians pages.
+
+commit fdd9982464f764f3803f5cd78675fa29063e91c7
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Wed Mar 22 16:33:25 2017 -0500
+
+    link to wiki page
+
+commit 8bf8c82d4aa9331d41b64f7f35864a16dfc1e286
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:29:00 2017 -0500
+
+    Moved state header below nav bar.
+
+commit 977853bce70234bba4a068dc461747c6aa4ef93a
+Merge: d96fafa 689a0f7
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:23:30 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit d96fafa90b2182b79649155e86cccebc08a8ff14
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 16:23:24 2017 -0500
+
+    Added background and section for text to splash page.
+
+commit 689a0f73633ccf87854a4e9063c679b2a0f1da45
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Wed Mar 22 16:16:53 2017 -0500
+
+    spaces among member names
+
+commit 9c01873380785ad87fd4e4d4906993dd41a7143b
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Wed Mar 22 16:13:18 2017 -0500
+
+    link of github issue tracker
+
+commit 82e6a167534a12f54a74e5e3cf7da6ce91b81dc3
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Mar 22 16:08:37 2017 -0500
+
+    added default table style to style.css for easier implementation
+
+commit 50c770f84f6d8a10d6ec9117f6750bf524786e0e
+Merge: 4b93b09 9b61e2d
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 15:47:48 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit 9b61e2dc3080b4d7dc12da90b94dceb3946c1981
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Wed Mar 22 15:31:00 2017 -0500
+
+    add a empty line between nav bar and aabout us img
+
+commit 4b93b0926da140f95c52ebf13fc3239b3d8481b2
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 15:39:02 2017 -0500
+
+    Uploaded bio pic and updated bio stuff.
+
+commit 027f122573be1b362f6e385871bdc41978428b4a
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Wed Mar 22 15:30:35 2017 -0500
+
+    updated formatting on states pages
+
+commit 42eb748ccaf2a1024578eeb938391c477bbd6439
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 15:23:44 2017 -0500
+
+    Added nav bar to about page.
+
+commit 765758220414287fd92f6d42d98ba38ecc964b13
+Merge: b7bfc81 bb264b5
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Wed Mar 22 14:05:28 2017 -0500
+
+    Merge branch 'master' of https://github.com/mattstras/mattstras.github.io
+
+commit b7bfc8170988d6aab62570676223a70101807a12
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Wed Mar 22 14:05:10 2017 -0500
+
+    changed politician table to match state table
+
+commit bb264b54c07fb6c4180d5404a43276a51c3c270a
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Wed Mar 22 13:57:58 2017 -0500
+
+    moved all images in images/
+
+commit f6232ab40e82260c5ebf154489d6c6fdaf367443
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Wed Mar 22 09:21:46 2017 -0500
+
+    added links to state pages from politician pages
+
+commit 07bd37666d61b26959d2997cdced9027c95ab695
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Wed Mar 22 09:14:34 2017 -0500
+
+    added nav bar to politicians page
+
+commit f04c21b101a94acf613ea378445b97f17068abe4
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Tue Mar 21 21:29:52 2017 -0500
+
+    Added "active" tab underlining in nav bar.
+
+commit 28497bded95aa96d22070b0e481a8667bba83d6f
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Tue Mar 21 20:03:16 2017 -0500
+
+    added states page with linking pages for each state, created images folder for organization, updated home page to link to states.html
+
+commit 3b0755e78d3aaab59398c7f94a660bbd82901b35
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Mon Mar 20 21:55:11 2017 -0500
+
+    Removed useless stuff.
+
+commit 8a0ec238192597faecc4d02776934b23dd659a1d
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Mon Mar 20 21:40:46 2017 -0500
+
+    Fixed links to introduction pages.
+
+commit 482ea7a4308af990f09c0a0c5ba4721206c8c871
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Mon Mar 20 21:33:21 2017 -0500
+
+    Added links to About and Politicians
+
+commit f03cf055e59f70b504a162ed078d7bd747671324
+Author: Richard Seifert <richardseifert@live.com>
+Date:   Mon Mar 20 21:20:27 2017 -0500
+
+    Added splash page as index.html
+
+commit 6a4f235a6cef3f2883ef2a39239ee0653ed2d0aa
+Author: Matthew Larsen <Matthew Larsen>
+Date:   Mon Mar 20 21:15:20 2017 -0500
+
+    basic table of three politicians which links to individual pages
+
+commit c352ea2f7d5cf1f9ad80c9aab2fa0c2043130cc7
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Mon Mar 20 19:05:40 2017 -0500
+
+    about page
+
+commit 34ee5215e81696b609addff33e5337fbdbea757b
+Author: huang6661 <huang6661@utexas.edu>
+Date:   Mon Mar 20 18:53:15 2017 -0500
+
+    about page
+
+commit a7add6ed057c9886f5af2a21c5c85d3a162e771e
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Mon Mar 20 15:27:59 2017 -0500
+
+    no message
+
+commit ae20dbb4a2b3a76924d017f0558a2f27307df362
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Mon Mar 20 15:23:12 2017 -0500
+
+    no message
+
+commit 4b193c77154a620a860699772fd7a814d8ddc1bc
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Mon Mar 20 13:31:11 2017 -0500
+
+    no message
+
+commit 3ebb0f9e129f25d837149f9cc96c2270f553fb0b
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Mon Mar 20 13:26:46 2017 -0500
+
+    no message
+
+commit a74a58449099cbf4a1a981daf83150186c8e826b
+Author: Matthew Strasburg <matthew.strasburg@utexas.eduu>
+Date:   Fri Mar 10 15:45:57 2017 -0600
+
+    no message
+
+commit b8d5259cfdf6ee91f1505d727a86d37bfd0f4686
+Author: mattstras <matthew.strasburg@utexas.edu>
+Date:   Fri Mar 10 15:39:17 2017 -0600
+
+    Initial commit
